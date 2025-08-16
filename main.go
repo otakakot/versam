@@ -13,5 +13,5 @@ func main() {
 		}
 	}
 
-	println("versamp version ", version)
+	println("versamp version", version)
 }
